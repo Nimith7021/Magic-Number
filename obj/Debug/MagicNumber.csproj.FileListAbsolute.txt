@@ -1,0 +1,7 @@
+C:\Users\nimith.shetty\Desktop\AproSCM\MagicNumber\bin\Debug\MagicNumber.exe.config
+C:\Users\nimith.shetty\Desktop\AproSCM\MagicNumber\bin\Debug\MagicNumber.exe
+C:\Users\nimith.shetty\Desktop\AproSCM\MagicNumber\bin\Debug\MagicNumber.pdb
+C:\Users\nimith.shetty\Desktop\AproSCM\MagicNumber\obj\Debug\MagicNumber.csproj.AssemblyReference.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\MagicNumber\obj\Debug\MagicNumber.csproj.CoreCompileInputs.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\MagicNumber\obj\Debug\MagicNumber.exe
+C:\Users\nimith.shetty\Desktop\AproSCM\MagicNumber\obj\Debug\MagicNumber.pdb
